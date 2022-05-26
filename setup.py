@@ -4,7 +4,7 @@
 """
 you can re run setup.py 
 if you have added some wrong value
-Da₹edevilkinng
+Dr.Byte
 """
 re="\033[1;31m"
 gr="\033[1;32m"
