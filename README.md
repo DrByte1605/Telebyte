@@ -3,7 +3,7 @@
 Contact me to get the Pro Version of this TeleAdder :
 
 
- Telegram : https://t.me/daredevilkinng
+ Telegram : https://t.me/blackcartel
  
  
 # Script to export members Telegram Groups and Channels to a CSV file and to add members to Telegram Groups or Channels.
